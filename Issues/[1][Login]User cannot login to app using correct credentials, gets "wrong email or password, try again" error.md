@@ -145,9 +145,9 @@ __graphql__:
                                 "OriginatingURL": "https%3A%2F%2Fapp.interviewme.pl%2Fapp%2Frsme%2F2a0c3cb6-4407-4b30-8f8d-ce32135881c8%2Fcontent%2F9a1ec7c3-6d9d-4bd6-91c4-cbdc1339078a",
                                 "Referrer": "https%3A%2F%2Fcoderbyte.com%2F",
                                 "guestUserID": "0f23b161-1941-41d5-bda2-8540bffdd7f8",
-                                "password": "parmezan6",
+                                "password": "password_from_task",
                                 "productCD": "NGB",
-                                "userName": "vincent-sqa+rekru2@bold.com"
+                                "userName": "<mail_from_task@bold.com"
                             }
                         },
                         "usedPayload": "{\"OriginatingURL\":\"https%3A%2F%2Fapp.interviewme.pl%2Fapp%2Frsme%2F2a0c3cb6-4407-4b30-8f8d-ce32135881c8%2Fcontent%2F9a1ec7c3-6d9d-4bd6-91c4-cbdc1339078a\",\"Referrer\":\"https%3A%2F%2Fcoderbyte.com%2F\",\"guestUserID\":\"0f23b161-1941-41d5-bda2-8540bffdd7f8\",\"password\":\"parmezan6\",\"productCD\":\"NGB\",\"userName\":\"vincent-sqa+rekru2@bold.com\"}",
