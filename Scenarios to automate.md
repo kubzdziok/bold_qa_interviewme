@@ -8,3 +8,4 @@
 - cases [4],[5],[6],[7] and [8] may be also automated, but one day someone told me that automating something that changes really often isn't the greatest idea. If we would have some mocked offers it will be ok, but it can't be forever the same of course.
 
 **In addition to above**, I think it's always a good thing to automate cases which aren't hard to automate, won't change in days, are pain in the neck to test because of its repeatability, and are just cases to mark as done.
+**btw** You are using datatestid in code, i'm not 100% sure, but even playwright is recommending using getByRole feature, or similar, something that is more accurate to the exact element :)
